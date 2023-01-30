@@ -1,0 +1,40 @@
+## {{title}}
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!--
+  Width refers to the document's width. Using a 40% allows GitHub's iOS app to
+  look decent
+  -->
+  <img align="right" width="40%" alt="Top Langs"
+       src="{{ stats.url }}?{{ urlEncode stats.searchParams }}">
+</a>
+
+{{content.description}}
+
+{{#each content.keypoints}}
+- {{this}}
+{{/each}}
+
+<br/>
+
+## Languages and Tools
+
+<div>
+  {{#each known-tools}}
+    <!--{{name}}-->
+    <a href="{{link}}">
+      <img alt="{{name}}" height="{{../height}}" src="{{icon}}">
+    </a>
+  {{/each}}
+</div>
+
+## Learn next
+
+<div>
+  {{#each learn-next}}
+    <!--{{name}}-->
+    <a href="{{link}}">
+      <img alt="{{name}}" height="{{../height}}" src="{{icon}}">
+    </a>
+  {{/each}}
+</div>
