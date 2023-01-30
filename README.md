@@ -9,10 +9,10 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mSamiolo&layout=compact&langs_count=6&exclude_repo=Demeter&hide=Jupyter+Notebook%2CVue&hide_title=true&theme=transparent">
 </a>
 
-I'm Mattia, a Modelling & Simualation Engineer
+I'm Mattia, a Modelling & Simualation Engineer at Bramble Energy
 
-- Simulation developer
-- Fascinated by functional programming
+- Into Cloud Simulation developing
+- Fascinated by Topology Optimization algorithms
 - Focused on building fast & reliable software
 - Interested in Machine Learning, Physics and Simulation Modelling
 
