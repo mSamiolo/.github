@@ -9,7 +9,7 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mSamiolo&layout=compact&langs_count=6&exclude_repo=Demeter&hide=Jupyter+Notebook%2CVue&hide_title=true&theme=transparent">
 </a>
 
-I'm Mattia, a Modelling & Simualation Engineer
+I'm Mattia, a Modelling & Simulation Engineer in Bramble Energy
 
 - Simulation developer
 - Fascinated by functional programming
@@ -41,13 +41,13 @@ I'm Mattia, a Modelling & Simualation Engineer
     <a href="https://www.typescriptlang.org/">
       <img alt="TypeScript" height="35px" src=".github/resources/ts.svg">
     </a>
-    <!--Deno-->
-    <a href="https://deno.land">
-      <img alt="Deno" height="35px" src=".github/resources/deno.svg">
+    <!--Node-->
+    <a href="https://nodejs.org/">
+      <img alt="Node" height="35px" src=".github/resources/node.webp">
     </a>
-    <!--Open API-->
-    <a href="https://www.openapis.org">
-      <img alt="Open API" height="35px" src=".github/resources/openapi.svg">
+    <!--Postman-->
+    <a href="https://www.postman.com/">
+      <img alt="Postman" height="35px" src=".github/resources/postman.png">
     </a>
     <!--Docker-->
     <a href="https://www.docker.com/">
@@ -61,10 +61,6 @@ I'm Mattia, a Modelling & Simualation Engineer
     <a href="https://git-scm.com/">
       <img alt="Git" height="35px" src=".github/resources/git.png">
     </a>
-    <!--GitHub-->
-    <a href="https://github.com/">
-      <img alt="GitHub" height="35px" src=".github/resources/github.png">
-    </a>
     <!--UNIX OS-->
     <a href="">
       <img alt="UNIX OS" height="35px" src=".github/resources/unixtermpng.png">
@@ -77,33 +73,21 @@ I'm Mattia, a Modelling & Simualation Engineer
     <a href="https://www.openfoam.com/">
       <img alt="OpenFOAM" height="35px" src=".github/resources/OpenFOAM.png">
     </a>
+    <!--COMSOL-->
+    <a href="https://www.comsol.com/">
+      <img alt="COMSOL" height="35px" src=".github/resources/comsol.png">
+    </a>
+    <!--ANSYS-->
+    <a href="https://www.ansys.com/">
+      <img alt="ANSYS" height="35px" src=".github/resources/ansys.png">
+    </a>
 </div>
 
 ## Learn next
 
 <div>
-    <!--Apache Kafka-->
-    <a href="https://kafka.apache.org/">
-      <img alt="Apache Kafka" height="35px" src=".github/resources/kafka.png">
-    </a>
-    <!--Apache Pulsar-->
-    <a href="https://pulsar.apache.org">
-      <img alt="Apache Pulsar" height="35px" src=".github/resources/pulsar.svg">
-    </a>
-    <!--Elixir-->
-    <a href="https://elixir-lang.org/">
-      <img alt="Elixir" height="35px" src=".github/resources/elixir.png">
-    </a>
-    <!--Scala-->
-    <a href="https://www.scala-lang.org/">
-      <img alt="Scala" height="35px" src=".github/resources/scala.png">
-    </a>
-    <!--Function Mesh-->
-    <a href="https://functionmesh.io/">
-      <img alt="Function Mesh" height="35px" src=".github/resources/functions_mesh.svg">
-    </a>
-    <!--OpenFaaS-->
-    <a href="https://www.openfaas.com">
-      <img alt="OpenFaaS" height="35px" src=".github/resources/openfaas.png">
+    <!--Deno-->
+    <a href="https://deno.land">
+      <img alt="Deno" height="35px" src=".github/resources/deno.svg">
     </a>
 </div>

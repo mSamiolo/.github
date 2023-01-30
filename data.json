@@ -55,14 +55,14 @@
       "icon": ".github/resources/ts.svg"
     },
     {
-      "name": "Deno",
-      "link": "https://deno.land",
-      "icon": ".github/resources/deno.svg"
+      "name": "Node",
+      "link": "https://nodejs.org/",
+      "icon": ".github/resources/node.webp"
     },
     {
-      "name": "Open API",
-      "link": "https://www.openapis.org",
-      "icon": ".github/resources/openapi.svg"
+      "name": "Postman",
+      "link": "https://www.postman.com/",
+      "icon": ".github/resources/postman.png"
     },
     {
       "name": "Docker",
@@ -80,11 +80,6 @@
       "icon": ".github/resources/git.png"
     },
     {
-      "name": "GitHub",
-      "link": "https://github.com/",
-      "icon": ".github/resources/github.png"
-    },
-    {
       "name": "UNIX OS",
       "link": "",
       "icon": ".github/resources/unixtermpng.png"
@@ -98,38 +93,23 @@
       "name": "OpenFOAM",
       "link": "https://www.openfoam.com/",
       "icon": ".github/resources/OpenFOAM.png"
+    },
+    {
+      "name": "COMSOL",
+      "link": "https://www.comsol.com/",
+      "icon": ".github/resources/comsol.png"
+    },
+    {
+      "name": "ANSYS",
+      "link": "https://www.ansys.com/",
+      "icon": ".github/resources/ansys.png"
     }
   ],
   "learn-next": [
     {
-      "name": "Apache Kafka",
-      "link": "https://kafka.apache.org/",
-      "icon": ".github/resources/kafka.png"
-    },
-    {
-      "name": "Apache Pulsar",
-      "link": "https://pulsar.apache.org",
-      "icon": ".github/resources/pulsar.svg"
-    },
-    {
-      "name": "Elixir",
-      "link": "https://elixir-lang.org/",
-      "icon": ".github/resources/elixir.png"
-    },
-    {
-      "name": "Scala",
-      "link": "https://www.scala-lang.org/",
-      "icon": ".github/resources/scala.png"
-    },
-    {
-      "name": "Function Mesh",
-      "link": "https://functionmesh.io/",
-      "icon": ".github/resources/functions_mesh.svg"
-    },
-    {
-      "name": "OpenFaaS",
-      "link": "https://www.openfaas.com",
-      "icon": ".github/resources/openfaas.png"
+      "name": "Deno",
+      "link": "https://deno.land",
+      "icon": ".github/resources/deno.svg"
     }
   ]
 }
