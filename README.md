@@ -9,9 +9,9 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mSamiolo&layout=compact&langs_count=6&exclude_repo=Demeter&hide=Jupyter+Notebook%2CVue&hide_title=true&theme=transparent">
 </a>
 
-I'm Mattia, a Modelling & Simulation Engineer in Bramble Energy
+I'm Mattia, a Modelling & Simualation Engineer
 
-- Into cloud simulation developing
+- Simulation developer
 - Fascinated by functional programming
 - Focused on building fast & reliable software
 - Interested in Machine Learning, Physics and Simulation Modelling
@@ -53,9 +53,9 @@ I'm Mattia, a Modelling & Simulation Engineer in Bramble Energy
     <a href="https://www.docker.com/">
       <img alt="Docker" height="35px" src=".github/resources/docker.png">
     </a>
-    <!--Visual Studio Code-->
-    <a href="https://code.visualstudio.com/">
-      <img alt="Visual Studio Code" height="35px" src=".github/resources/code.png">
+    <!--PyTorch-->
+    <a href="https://pytorch.org/">
+      <img alt="PyTorch" height="35px" src=".github/resources/pytorch.jpg">
     </a>
     <!--Git-->
     <a href="https://git-scm.com/">
