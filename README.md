@@ -11,7 +11,7 @@
 
 I'm Mattia, a Modelling & Simulation Engineer in Bramble Energy
 
-- Simulation developer
+- Into cloud simulation developing
 - Fascinated by functional programming
 - Focused on building fast & reliable software
 - Interested in Machine Learning, Physics and Simulation Modelling

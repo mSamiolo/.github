@@ -70,9 +70,9 @@
       "icon": ".github/resources/docker.png"
     },
     {
-      "name": "Visual Studio Code",
-      "link": "https://code.visualstudio.com/",
-      "icon": ".github/resources/code.png"
+      "name": "PyTorch",
+      "link": "https://pytorch.org/",
+      "icon": ".github/resources/pytorch.jpg"
     },
     {
       "name": "Git",
