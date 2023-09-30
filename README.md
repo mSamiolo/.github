@@ -41,10 +41,6 @@ I'm Mattia, a Modelling & Simualation Engineer at Bramble Energy
     <a href="https://www.typescriptlang.org/">
       <img alt="TypeScript" height="35px" src=".github/resources/ts.svg">
     </a>
-    <!--Node-->
-    <a href="https://nodejs.org/">
-      <img alt="Node" height="35px" src=".github/resources/node.webp">
-    </a>
     <!--Postman-->
     <a href="https://www.postman.com/">
       <img alt="Postman" height="35px" src=".github/resources/postman.png">
@@ -80,14 +76,5 @@ I'm Mattia, a Modelling & Simualation Engineer at Bramble Energy
     <!--ANSYS-->
     <a href="https://www.ansys.com/">
       <img alt="ANSYS" height="35px" src=".github/resources/ansys.png">
-    </a>
-</div>
-
-## Learn next
-
-<div>
-    <!--Deno-->
-    <a href="https://deno.land">
-      <img alt="Deno" height="35px" src=".github/resources/deno.svg">
     </a>
 </div>
