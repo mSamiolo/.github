@@ -9,61 +9,36 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mSamiolo&layout=compact&langs_count=6&exclude_repo=Demeter&hide=Jupyter+Notebook%2CVue&hide_title=true&theme=transparent">
 </a>
 
-I'm Mattia, a Modelling & Simualation Engineer at Bramble Energy
+I'm Mattia, a Modelling & Simualation Engineer interested in:
 
-- Into Cloud Simulation developing
-- Fascinated by Topology Optimization algorithms
-- Focused on building fast & reliable software
-- Interested in Machine Learning, Physics and Simulation Modelling
+- Physics simulation developing (like FEM, LBM, FVM)
+- Cloud computing
+- Topology Optimization algorithms
 
 <br/>
 
-## Languages and Tools
+## Languages
 
 <div>
     <!--Rust-->
     <a href="https://www.rust-lang.org">
       <img alt="Rust" height="35px" src=".github/resources/rust.png">
     </a>
-    <!--Rocket-->
-    <a href="https://rocket.rs">
-      <img alt="Rocket" height="35px" src=".github/resources/rocket.png">
-    </a>
-    <!--Yew-->
-    <a href="https://yew.rs/">
-      <img alt="Yew" height="35px" src=".github/resources/yew.png">
+    <!--Julia-->
+    <a href="https://www.julialang.org/">
+      <img alt="Julia" height="35px" src=".github/resources/julialang.jpeg">
     </a>
     <!--Python-->
     <a href="https://www.python.org/">
       <img alt="Python" height="35px" src=".github/resources/python.png">
     </a>
-    <!--TypeScript-->
-    <a href="https://www.typescriptlang.org/">
-      <img alt="TypeScript" height="35px" src=".github/resources/ts.svg">
-    </a>
-    <!--Postman-->
-    <a href="https://www.postman.com/">
-      <img alt="Postman" height="35px" src=".github/resources/postman.png">
-    </a>
-    <!--Docker-->
-    <a href="https://www.docker.com/">
-      <img alt="Docker" height="35px" src=".github/resources/docker.png">
-    </a>
-    <!--PyTorch-->
-    <a href="https://pytorch.org/">
-      <img alt="PyTorch" height="35px" src=".github/resources/pytorch.jpg">
-    </a>
-    <!--Git-->
-    <a href="https://git-scm.com/">
-      <img alt="Git" height="35px" src=".github/resources/git.png">
-    </a>
+</div>
+
+## Tools
+<div>
     <!--UNIX OS-->
     <a href="">
       <img alt="UNIX OS" height="35px" src=".github/resources/unixtermpng.png">
-    </a>
-    <!--Nginx-->
-    <a href="https://www.nginx.com/">
-      <img alt="Nginx" height="35px" src=".github/resources/nginx.png">
     </a>
     <!--OpenFOAM-->
     <a href="https://www.openfoam.com/">
@@ -76,5 +51,9 @@ I'm Mattia, a Modelling & Simualation Engineer at Bramble Energy
     <!--ANSYS-->
     <a href="https://www.ansys.com/">
       <img alt="ANSYS" height="35px" src=".github/resources/ansys.png">
+    </a>
+    <!--Docker-->
+    <a href="https://www.docker.com/">
+      <img alt="Docker" height="35px" src=".github/resources/docker.png">
     </a>
 </div>
