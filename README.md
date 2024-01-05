@@ -26,7 +26,7 @@ I'm Mattia, a Modelling & Simualation Engineer interested in:
     </a>
     <!--Julia-->
     <a href="https://www.julialang.org/">
-      <img alt="Julia" height="35px" src=".github/resources/julialang.jpeg">
+      <img alt="Julia" height="35px" src=".github/resources/julia_lang.jpeg">
     </a>
     <!--Python-->
     <a href="https://www.python.org/">
