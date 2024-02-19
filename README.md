@@ -9,7 +9,7 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mSamiolo&layout=compact&langs_count=6&exclude_repo=Demeter&hide=Jupyter+Notebook%2CVue&hide_title=true&theme=transparent">
 </a>
 
-I'm Mattia, a Modelling & Simualation Engineer interested in:
+I'm Mattia, a Modelling & Simulation Engineer interested in:
 
 - Physics simulation developing (like FEM, LBM, FVM)
 - Cloud computing
